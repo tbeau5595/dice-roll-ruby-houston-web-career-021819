@@ -4,4 +4,5 @@
 
 def roll
   (1..6)
+  return roll
 end
